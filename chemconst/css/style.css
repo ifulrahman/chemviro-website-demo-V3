@@ -2129,10 +2129,4 @@ figure figcaption {
   .site-title {
       display: none; /* Menyembunyikan teks */
   }
-
-  .logo-container img{
-    width: 25px; 
-    margin-right: 10px;
-    margin-left: 0;
-  }
 }
